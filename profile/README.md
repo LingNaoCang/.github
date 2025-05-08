@@ -1,12 +1,8 @@
 ## Hi 灵脑舱 (Líng Nǎo Cāng) 👋
 
+**COrtexpod**
 
+CortexPod is a brain-inspired, multi-modal architecture designed to emulate aspects of human cognition. Each "Pod" functions as a modular unit capable of processing various data types, aiming to replicate the integrative capabilities of the human brain.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+- Multi-Modal Processing: CortexPod integrates diverse data forms—such as text, audio, and visual inputs—facilitating comprehensive contextual understanding.
+- Modular Design: The architecture's modularity allows for scalable and adaptable configurations, enabling the construction of complex cognitive systems tailored to specific applications.
