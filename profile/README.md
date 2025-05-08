@@ -1,6 +1,6 @@
 ## Hi 灵脑舱 (Líng Nǎo Cāng) 👋
 
-**COortexpod**
+**Cortexpod**
 
 CortexPod is a brain-inspired, multi-modal architecture designed to emulate aspects of human cognition. Each "Pod" functions as a modular unit capable of processing various data types, aiming to replicate the integrative capabilities of the human brain.
 
